@@ -4,6 +4,6 @@ L'Università del Molise, al fine di favorire la ricerca scientifica e l'alta fo
 
 **Direttore:** Anna Lisa FERRARA
 
-**Partecipanti:* Anna Lisa FERRARA, Gennaro PARLATO, Giovanni CAPOBIANCO, Vittorio LATORRE, Roberta CIMORELLI BELFIORE
+**Partecipanti:** Anna Lisa FERRARA, Gennaro PARLATO, Giovanni CAPOBIANCO, Vittorio LATORRE, Roberta CIMORELLI BELFIORE
 
 
