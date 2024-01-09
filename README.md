@@ -6,11 +6,11 @@ L'Università del Molise, al fine di favorire la ricerca scientifica e l'alta fo
 **Direttore:**\
 Anna Lisa FERRARA
 
-**Partecipanti:**\ 
-Anna Lisa FERRARA\
-Gennaro PARLATO\
-Giovanni CAPOBIANCO\
-Vittorio LATORRE\
+**Partecipanti:**\
+[Anna Lisa FERRARA](http://docenti.unimol.it/index.php?u=a.ferrara8) \
+[Gennaro PARLATO](http://docenti.unimol.it/index.php?u=g.parlato)\
+[Giovanni CAPOBIANCO](http://docenti.unimol.it/index.php?u=giovanni.capobianco)\
+[Vittorio LATORRE](http://docenti.unimol.it/index.php?u=v.latorre1)\
 Roberta CIMORELLI BELFIORE
 
 
