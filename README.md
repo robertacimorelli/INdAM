@@ -7,10 +7,10 @@ L'Università del Molise, al fine di favorire la ricerca scientifica e l'alta fo
 Anna Lisa FERRARA
 
 **Partecipanti:** 
-Anna Lisa FERRARA
-Gennaro PARLATO
-Giovanni CAPOBIANCO
-Vittorio LATORRE
+Anna Lisa FERRARA__
+Gennaro PARLATO__
+Giovanni CAPOBIANCO__
+Vittorio LATORRE__
 Roberta CIMORELLI BELFIORE
 
 
