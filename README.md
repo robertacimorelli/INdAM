@@ -11,7 +11,7 @@ Anna Lisa FERRARA
 [Gennaro PARLATO](http://docenti.unimol.it/index.php?u=g.parlato)\
 [Giovanni CAPOBIANCO](http://docenti.unimol.it/index.php?u=giovanni.capobianco)\
 [Vittorio LATORRE](http://docenti.unimol.it/index.php?u=v.latorre1)\
-Manuela FLORES\
+[Manuela FLORES](http://intranet.di.unisa.it/~mflores/)\
 [Roberta CIMORELLI BELFIORE](https://robertacimorelli.github.io/homepage/)
 
 
