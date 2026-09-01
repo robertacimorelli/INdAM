@@ -7,7 +7,7 @@ L'Università del Molise, al fine di favorire la ricerca scientifica e l'alta fo
 Anna Lisa FERRARA
 
 **Partecipanti:**\
-[Anna Lisa FERRARA](http://docenti.unimol.it/index.php?u=a.ferrara8) \
+[Anna Lisa FERRARA](http://docenti.unimol.it/index.php?u=a.ferrara8)\
 [Gennaro PARLATO](http://docenti.unimol.it/index.php?u=g.parlato)\
 [Manuela FLORES](http://docenti.unimol.it/index.php?u=m.flores)\
 [Roberta CIMORELLI BELFIORE](https://robertacimorelli.github.io)
