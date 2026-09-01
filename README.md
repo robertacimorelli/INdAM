@@ -1,6 +1,6 @@
-# Unità di Ricerca INdAM Molise
+# INdAM Research Unit in Molise
 
-L'Università del Molise, al fine di favorire la ricerca scientifica e l'alta formazione nelle discipline matematiche, collabora con l'[Istituto Nazionale di Alta Matematica "Francesco Severi"](https://www.altamatematica.it) e ne ospita un'Unità di Ricerca con sede amministrativa presso il Dipartimento di [Bioscienze e Territorio](https://www2.dipbioter.unimol.it).
+The University of Molise, with the aim of promoting scientific research and advanced training in the mathematical disciplines, collaborates with the [Istituto Nazionale di Alta Matematica "Francesco Severi"](https://www.altamatematica.it) and hosts a Research Unit with its administrative headquarters at the Department of [Biosciences and Territory](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/home).
 
 
 **Direttore:**\
