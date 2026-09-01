@@ -10,6 +10,6 @@ Anna Lisa FERRARA
 [Anna Lisa FERRARA](http://docenti.unimol.it/index.php?u=a.ferrara8) \
 [Gennaro PARLATO](http://docenti.unimol.it/index.php?u=g.parlato)\
 [Manuela FLORES](http://intranet.di.unisa.it/~mflores/)\
-[Roberta CIMORELLI BELFIORE](https://robertacimorelli.github.io/homepage/)
+[Roberta CIMORELLI BELFIORE](https://robertacimorelli.github.io)
 
 
