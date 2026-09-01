@@ -9,7 +9,7 @@ Anna Lisa FERRARA
 **Partecipanti:**\
 [Anna Lisa FERRARA](http://docenti.unimol.it/index.php?u=a.ferrara8) \
 [Gennaro PARLATO](http://docenti.unimol.it/index.php?u=g.parlato)\
-[Manuela FLORES](http://intranet.di.unisa.it/~mflores/)\
+[Manuela FLORES](http://docenti.unimol.it/index.php?u=m.flores)\
 [Roberta CIMORELLI BELFIORE](https://robertacimorelli.github.io)
 
 
